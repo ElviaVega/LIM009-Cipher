@@ -6,8 +6,11 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <img class="title1" src="img/titulo.jpg" alt="eldiariodeelvita"/>
     <div class="contenedor">
+        <div class="title1">
+            <img class="img-responsive center-block" src="img/titulo.jpg" alt="eldiariodeelvita"/>
+        </div>
+        <div class="titulo">Ingresa tu mensaje que quieras mantener en secreto</div>
         <form>
             <label for="string">Ingresa Mensaje</label>
             <input type="text" id="string"/>
@@ -16,8 +19,10 @@
             <input type="number" id="offset" min="1" step="1"/>
          </form>
          <br><br>
+         <div class="button">
          <button id="btn_encriptar">Encriptar</button>
          <button id="btn_desencriptar">Desencriptar</button>
+        </div>
         <p id="resultado"></p>
     </div>
    
