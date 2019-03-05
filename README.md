@@ -1,4 +1,4 @@
-#Proyecto El diario de Elvita
+# Proyecto El diario de Elvita
 Esta aplicación esta diseñada pensado sobre todo en el público adolescente, quienes por la etapa que estan atravesando quieren registar sus experiencias y emociones nuevas pero sobretodo quieren mantenerlo en privado, es por ello la aplicacion le peromitirirá encriptar sus mensajes siendo incomprensibla para cualquier persona, cumpliendo con el objetivos para el cual fue desarrollado el producto.
 
 
