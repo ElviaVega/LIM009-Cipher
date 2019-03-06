@@ -14,3 +14,5 @@ Muchos adolescentes al registrar sus mensajes en un diario común, tienen el pro
 
 Para ello debe ingresar a la aplicacion en ella aparecerá la siguiente pantalla:
 
+![image](https://github.com/ElviaVega/LIM009-Cipher/blob/master/src/img/pantalla_readme.jpg)
+
